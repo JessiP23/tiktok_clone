@@ -29,6 +29,15 @@ Requests per second: 20
 
 '''
 
+'''
+Storage Estimate
+Total Users Profiles Storage: 3000 * 1KB = 3MB
+Average Video Metadata: 500KB
+Daily Video Uploads: 50 * 500KB = 25MB
+Monthly Video metadata storage: 25MB * 30 = 750MB
+Total Storage: 3MB + 750MB = 753MB
+'''
+
 
 
 for i in range(10):
