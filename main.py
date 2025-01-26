@@ -16,8 +16,6 @@
 
 
 # neural networks to analyze video content and user interactions, improvingthe accuracy of the recommendations
-#
-
 
 
 '''
@@ -37,6 +35,11 @@ Daily Video Uploads: 50 * 500KB = 25MB
 Monthly Video metadata storage: 25MB * 30 = 750MB
 Total Storage: 3MB + 750MB = 753MB
 '''
+
+# Approach
+# User Authentication
+# Handle User Profile: Username, email address, profile picture, user preferences.
+# Video uploads: Compression, format conversion, metadata management, validation
 
 
 
